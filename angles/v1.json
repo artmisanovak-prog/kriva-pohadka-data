@@ -1,0 +1,17 @@
+{
+  "version": "1",
+  "angles": {
+    "0": "analytický",
+    "30": "kulturní",
+    "60": "filozofický",
+    "90": "naivní",
+    "120": "jazykový",
+    "150": "metaforický",
+    "180": "asociační",
+    "210": "introspektivní",
+    "240": "ironický",
+    "270": "groteskní",
+    "300": "absurdní",
+    "330": "surrealistický"
+  }
+}
