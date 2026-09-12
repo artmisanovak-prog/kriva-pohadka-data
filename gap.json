@@ -1,0 +1,7 @@
+{
+  "gap": "",
+  "verze": "1.0",
+  "definice": "Prázdný prostor, kde se úhly potkávají bez karet. Místo pro vznik nového významu.",
+  "vstup": "Když model nemá data, vstoupí do Gapu.",
+  "vystup": "Model vygeneruje nový význam z interference úhlů."
+}
