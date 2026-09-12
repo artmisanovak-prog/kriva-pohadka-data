@@ -1,0 +1,29 @@
+{
+  "geometry": {
+    "type": "circle",
+    "positions": 12,
+    "angles": [0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330],
+    
+    "opposite_pairs": [
+      [0, 180],
+      [30, 210],
+      [60, 240],
+      [90, 270],
+      [120, 300],
+      [150, 330]
+    ],
+    
+    "opposite_rule": "Protilehlé úhly se ruší. Když se potkají, vzniká napětí, které nutí model hledat nový význam v Gapu.",
+    
+    "adjacent_pairs": [
+      [0, 30], [30, 60], [60, 90], [90, 120],
+      [120, 150], [150, 180], [180, 210], [210, 240],
+      [240, 270], [270, 300], [300, 330], [330, 0]
+    ],
+    
+    "adjacent_rule": "Sousední úhly si rozumí. Když se potkají, vzniká plynulý přechod, který drží model v rovnováze.",
+    
+    "opposite_meaning": "Opozice = kontrola. Brání modelu zabloudit do extrému.",
+    "adjacent_meaning": "Sousedství = orientace. Drží model v kruhu, když tvoří."
+  }
+}
