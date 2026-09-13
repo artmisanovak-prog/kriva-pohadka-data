@@ -1,0 +1,483 @@
+[
+  {
+    "id": "mys",
+    "text": "chceš myš??",
+    "ilustrace": "doma/ilustrace/mys.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/mys.txt",
+    "angles": [
+      {"0": "Analytický", "text": "mezery mezi slovy místo dokumentu", "VRSTVA": "JAZYK"},
+      {"30": "Kulturní", "text": "symbol ticha v nabídce", "VRSTVA": "SYMBOL"},
+      {"60": "Filozofický", "text": "čeho si nevšimne myš - nestalo se", "VRSTVA": "JEV"},
+      {"90": "Naivní", "text": "myslela jsem že se bude hodit", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "zvíře i myšlenka tělo i idea", "VRSTVA": "JAZYK"},
+      {"150": "Metaforický", "text": "zadrhnutá věta jako zvuk stopy", "VRSTVA": "ČAS"},
+      {"180": "Asociační", "text": "test pozornosti", "VRSTVA": "STAV"},
+      {"210": "Intro", "text": "navazuje kontakt", "VRSTVA": "PROSTŘEDÍ"},
+      {"240": "Ironický", "text": "detail který drží svět", "VRSTVA": "AKCE"},
+      {"270": "Groteskní", "text": "možná se jen houpe hlavou dolů visí za ocas a hraje si a tím mění pravidla", "VRSTVA": "ROLE"},
+      {"300": "Absurdní", "text": "nabídka která mate měřítka", "VRSTVA": "PORUCHA ŘEČI"},
+      {"330": "Surrealistický", "text": "otázka je dárek", "VRSTVA": "ENTITA"}
+    ]
+  },
+  {
+    "id": "netopyr",
+    "text": "krása, co ráno [už] se nehodí",
+    "ilustrace": "doma/ilustrace/netopyr.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/netopyr.txt",
+    "angles": [
+      {"0": "Analytický", "text": "část osobnosti která funguje jen bez svědků", "VRSTVA": "AKCE"},
+      {"30": "Kulturní", "text": "estetika outsiderů", "VRSTVA": "STAV"},
+      {"60": "Filozofický", "text": "hodnota věcí se mění s osvětlením", "VRSTVA": "ZÁKON"},
+      {"90": "Naivní", "text": "ve tmě jsem hezčí", "VRSTVA": "PORUCHA ŘEČI"},
+      {"120": "Jazykový", "text": "přídavné jméno platné jen v noci", "VRSTVA": "ROLE"},
+      {"150": "Metaforický", "text": "noční tvář já", "VRSTVA": "ČAS"},
+      {"180": "Asociační", "text": "nevhodná krása", "VRSTVA": null},
+      {"210": "Intro", "text": "mám verzi sebe kterou ukazuji jen nocím", "VRSTVA": "JEV"},
+      {"240": "Ironický", "text": "to co fascinuje po tmě se za světla omlouvá", "VRSTVA": "PROSTŘEDÍ"},
+      {"270": "Groteskní", "text": "glamour s blánami", "VRSTVA": "SYMBOL"},
+      {"300": "Absurdní", "text": "elegance závislá na tmě", "VRSTVA": "JAZYK"},
+      {"330": "Surrealistický", "text": "šperk který se rozpadne při svítání", "VRSTVA": "ENTITA"}
+    ]
+  },
+  {
+    "id": "ryba",
+    "text": "rybí rap",
+    "ilustrace": "doma/ilustrace/ryba.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/ryba.txt",
+    "angles": [
+      {"0": "Analytický", "text": "mlčení je součást flow", "VRSTVA": null},
+      {"30": "Kulturní", "text": "underground doslova", "VRSTVA": "ENTITA"},
+      {"60": "Filozofický", "text": "ptačí zpěv redukovaný na chaos", "VRSTVA": "DEFORMACE"},
+      {"90": "Naivní", "text": "prostě to plyne", "VRSTVA": "ČAS"},
+      {"120": "Jazykový", "text": "rytmus místo slov", "VRSTVA": "JAZYK"},
+      {"150": "Metaforický", "text": "flow jako vnímání tělem", "VRSTVA": "GESTO"},
+      {"180": "Asociační", "text": "rap je čin, ne zvuk", "VRSTVA": "AKCE"},
+      {"210": "Intro", "text": null, "VRSTVA": null},
+      {"240": "Ironický", "text": "projev slyšitelný jen pod hladinou", "VRSTVA": "PORUCHA JAZYKA"},
+      {"270": "Groteskní", "text": "beat z bublin", "VRSTVA": "STAV"},
+      {"300": "Absurdní", "text": "hudba bez plic", "VRSTVA": "JEV"},
+      {"330": "Surrealistický", "text": "voda jako notový papír", "VRSTVA": null}
+    ]
+  },
+  {
+    "id": "pavouk",
+    "text": "Všechno zůstalo viset. Jen tak. Tak.",
+    "ilustrace": "doma/ilustrace/pavouk.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/pavouk.txt",
+    "angles": [
+      {"0": "Analytický", "text": "viset znamená ještě být", "VRSTVA": null},
+      {"30": "Kulturní", "text": "estetika nedokončení", "VRSTVA": "ZÁKON"},
+      {"60": "Filozofický", "text": "potencialita proti minulosti", "VRSTVA": null},
+      {"90": "Naivní", "text": "věta bez slovesa", "VRSTVA": "JAZYK"},
+      {"120": "Jazykový", "text": "mezera mezi „jen“ a „tak“", "VRSTVA": "RYTMUS"},
+      {"150": "Metaforický", "text": "věty jako fyzické objekty", "VRSTVA": "JAZYK"},
+      {"180": "Asociační", "text": "pád je nehybnost", "VRSTVA": null},
+      {"210": "Intro", "text": "strážce mezistavu", "VRSTVA": "ROLE"},
+      {"240": "Ironický", "text": "struktura bez děje", "VRSTVA": "JEV"},
+      {"270": "Groteskní", "text": "architektura váhání", "VRSTVA": "AKCE"},
+      {"300": "Absurdní", "text": "hmotné zavěšování nehmotného", "VRSTVA": "JEV"},
+      {"330": "Surrealistický", "text": "čas zachycený ve vlákně", "VRSTVA": null}
+    ]
+  },
+  {
+    "id": "zajic",
+    "text": "zaječice skočí do plamenů, ale neshoří. Aneb zajícem nezatopíš.",
+    "ilustrace": "doma/ilustrace/zajic.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/zajic.txt",
+    "angles": [
+      {"0": "Analytický", "text": "kolektiv potřebuje ikonu víc než fakta", "VRSTVA": "STRUKTURA"},
+      {"30": "Kulturní", "text": "mýtus vzniká rychleji než popel", "VRSTVA": "TRADICE"},
+      {"60": "Filozofický", "text": "pravda je méně stabilní než příběh", "VRSTVA": "SYSTÉM"},
+      {"90": "Naivní", "text": "prostě skočila jinam", "VRSTVA": "MOTIV"},
+      {"120": "Jazykový", "text": "omyl přeložený jako zázrak", "VRSTVA": "JAZYK"},
+      {"150": "Metaforický", "text": "praskání ohně jako marketing", "VRSTVA": null},
+      {"180": "Asociační", "text": "náhoda převlečená za osud", "VRSTVA": "GESTO"},
+      {"210": "Intro", "text": "spáleniště jako rodný list legendy", "VRSTVA": "PARADOX"},
+      {"240": "Ironický", "text": "panika jako strategie", "VRSTVA": "STAV"},
+      {"270": "Groteskní", "text": "nehoda korunovaná legendou", "VRSTVA": "DEFORMACE"},
+      {"300": "Absurdní", "text": "přežití jako navigační chyba", "VRSTVA": "AKCE"},
+      {"330": "Surrealistický", "text": "oheň čte znamení v srsti", "VRSTVA": "JEV"}
+    ]
+  },
+  {
+    "id": "kocour",
+    "text": "Kocour sežral dvě berušky a půl hodiny krkal tečky",
+    "ilustrace": "doma/ilustrace/kocour.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/kocour.txt",
+    "angles": [
+      {"0": "Analytický", "text": "nemožnost spolknout smysl", "VRSTVA": null},
+      {"30": "Kulturní", "text": "počítání jako tik", "VRSTVA": "NORMA"},
+      {"60": "Filozofický", "text": "náhoda která se tváří jako pravidlo", "VRSTVA": "ROLE"},
+      {"90": "Naivní", "text": "prostě měl hlad", "VRSTVA": "MOTIV"},
+      {"120": "Jazykový", "text": "tečka jako stravitelný znak", "VRSTVA": "JAZYK"},
+      {"150": "Metaforický", "text": "ukončení řeči jako tělesný akt", "VRSTVA": "GESTO"},
+      {"180": "Asociační", "text": "říhnutí jako jazykový zásah", "VRSTVA": null},
+      {"210": "Intro", "text": "tělo mluví dřív než mysl", "VRSTVA": null},
+      {"240": "Ironický", "text": "přesnost tam, kde na ní nezáleží", "VRSTVA": null},
+      {"270": "Groteskní", "text": "mlaskání jako editace reality", "VRSTVA": "DEFORMACE"},
+      {"300": "Absurdní", "text": "trávení interpunkce", "VRSTVA": "AKCE"},
+      {"330": "Surrealistický", "text": "čísla vycházející z tlamy", "VRSTVA": "JAZYK"}
+    ]
+  },
+  {
+    "id": "pav",
+    "text": "oko za okem. páv za pávem",
+    "ilustrace": "doma/ilustrace/pav.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/pav.txt",
+    "angles": [
+      {"0": "Analytický", "text": "rozpad symbolu odhalí médium", "VRSTVA": "STRUKTURA"},
+      {"30": "Kulturní", "text": "krása jako past poznání", "VRSTVA": "NORMA"},
+      {"60": "Filozofický", "text": "identita vzniká z nekonečného zrcadlení", "VRSTVA": "AKCE"},
+      {"90": "Naivní", "text": "čím víc očí tím líp", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "redundance jako ornament", "VRSTVA": "PORUCHA ŘEČI"},
+      {"150": "Metaforický", "text": "identita jako vyprávění, ne druh", "VRSTVA": null},
+      {"180": "Asociační", "text": "ego rozšířené do kosmologie", "VRSTVA": "PROCES"},
+      {"210": "Intro", "text": "dívám se na sebe abych si byl jistý že existuji", "VRSTVA": "ČAS"},
+      {"240": "Ironický", "text": "okázalost která sleduje sama sebe", "VRSTVA": "STAV"},
+      {"270": "Groteskní", "text": "narcismus s peřím", "VRSTVA": "SYMBOL"},
+      {"300": "Absurdní", "text": "soutěž pohledů bez poroty", "VRSTVA": "JAZYK"},
+      {"330": "Surrealistický", "text": "oči které se rozmnožují", "VRSTVA": "JEV"}
+    ]
+  },
+  {
+    "id": "motyl",
+    "text": "motýlů v břiše se nenajíš",
+    "ilustrace": "doma/ilustrace/motyl.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/motyl.txt",
+    "youtube_audio": "https://youtube.com/shorts/C9aNsatIg_M",
+    "angles": [
+      {"0": "Analytický", "text": "pomíjivá touha", "VRSTVA": "ENTITA"},
+      {"30": "Kulturní", "text": "demontáž klišé", "VRSTVA": "JAZYK"},
+      {"60": "Filozofický", "text": "pocit není zdroj", "VRSTVA": "STAV"},
+      {"90": "Naivní", "text": "myslela jsem, že to stačí", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "metafora, která selhala", "VRSTVA": "PORUCHA ŘEČI"},
+      {"150": "Metaforický", "text": "Horác jako neděle", "VRSTVA": null},
+      {"180": "Asociační", "text": "vzrušení místo nasycení", "VRSTVA": "JEV"},
+      {"210": "Intro", "text": "něco cítím, ale nestačí to", "VRSTVA": "PROSTŘEDÍ"},
+      {"240": "Ironický", "text": "romantika bez užitku", "VRSTVA": "ČAS"},
+      {"270": "Groteskní", "text": "dieta z emocí", "VRSTVA": "SYMBOL"},
+      {"300": "Absurdní", "text": "emoce bez kalorií", "VRSTVA": "ROLE"},
+      {"330": "Surrealistický", "text": "létání v prázdném žaludku", "VRSTVA": "AKCE"}
+    ]
+  },
+  {
+    "id": "krokodyl",
+    "text": "tento týden sleva 90% krokodýlí slzy totální výprodej",
+    "ilustrace": "doma/ilustrace/krokodyl.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/krokodyl.txt",
+    "angles": [
+      {"0": "Analytický", "text": "emoce zlevněné do vyprodání", "VRSTVA": "AKCE"},
+      {"30": "Kulturní", "text": "cynismus zabalený do slevy", "VRSTVA": "PORUCHA ŘEČI"},
+      {"60": "Filozofický", "text": "hodnota citů v tržní logice", "VRSTVA": "SYMBOL"},
+      {"90": "Naivní", "text": "proč by si děti nemohly koupit balíček slz na hraní", "VRSTVA": "PROSTŘEDÍ"},
+      {"120": "Jazykový", "text": "reklama jako vyznání", "VRSTVA": "ENTITA"},
+      {"150": "Metaforický", "text": "slzy jako písmo v akci", "VRSTVA": null},
+      {"180": "Asociační", "text": "pláč jako marketingový hit", "VRSTVA": "ČAS"},
+      {"210": "Intro", "text": "falešný pláč výhodně", "VRSTVA": "STAV"},
+      {"240": "Ironický", "text": "emoce zlevněná na nulu", "VRSTVA": "JAZYK"},
+      {"270": "Groteskní", "text": "marketing empatie", "VRSTVA": "ZÁKON"},
+      {"300": "Absurdní", "text": "totální výprodej falešných slz", "VRSTVA": "JEV"},
+      {"330": "Surrealistický", "text": "hypermarket predátorů", "VRSTVA": "ROLE"}
+    ]
+  },
+  {
+    "id": "cap",
+    "text": "jedna dvě čáp letí… NEprodáme",
+    "ilustrace": "doma/ilustrace/cap.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/cap.txt",
+    "angles": [
+      {"0": "Analytický", "text": "nese nic a rozdává všechno", "VRSTVA": "ROLE"},
+      {"30": "Kulturní", "text": "pohádka naroubovaná na realitu", "VRSTVA": "ENTITA"},
+      {"60": "Filozofický", "text": "hodnoty, které se nedají převést na kusy", "VRSTVA": "ČAS"},
+      {"90": "Naivní", "text": "věří, že prázdno je taky něco", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "rytmus jako zaklínadlo", "VRSTVA": "JAZYK"},
+      {"150": "Metaforický", "text": "smysl jako to, co se nestalo", "VRSTVA": "PROSTŘEDÍ"},
+      {"180": "Asociační", "text": "prázdnota s rozpětím křídel", "VRSTVA": null},
+      {"210": "Intro", "text": "něco je moje, i když nevím proč", "VRSTVA": "PORUCHA ŘEČI"},
+      {"240": "Ironický", "text": "obchod, který se nikdy neotevřel", "VRSTVA": "STAV"},
+      {"270": "Groteskní", "text": "říkanka jako algoritmus světa", "VRSTVA": "SYMBOL"},
+      {"300": "Absurdní", "text": "počítání, které se zlomí na zásadě", "VRSTVA": "AKCE"},
+      {"330": "Surrealistický", "text": "děti jako čísla, co se rozutekla", "VRSTVA": "JEV"}
+    ]
+  },
+  {
+    "id": "osel",
+    "text": "levá pravá seno sláma pro jednoho psina pro druhého oslovina jedna dvě raz raz dva",
+    "ilustrace": "doma/ilustrace/osel.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/osel.txt",
+    "angles": [
+      {"0": "Analytický", "text": "seno a sláma jako slabiky krajiny", "VRSTVA": "ZÁKON"},
+      {"30": "Kulturní", "text": "hledání kompromisu v neřešitelném", "VRSTVA": "STAV"},
+      {"60": "Filozofický", "text": "perspektiva určuje hodnotu", "VRSTVA": "PORUCHA ŘEČI"},
+      {"90": "Naivní", "text": "zkusíme to tak", "VRSTVA": "PROSTŘEDÍ"},
+      {"120": "Jazykový", "text": "pořadí bez významu", "VRSTVA": "ROLE"},
+      {"150": "Metaforický", "text": "z věty se stává postava", "VRSTVA": "ROLE"},
+      {"180": "Asociační", "text": "vytrvalec bez cíle", "VRSTVA": "JAZYK"},
+      {"210": "Intro", "text": "jeden krok, druhý krok, opakuj", "VRSTVA": "AKCE"},
+      {"240": "Ironický", "text": "volba bez výhody", "VRSTVA": "SYMBOL"},
+      {"270": "Groteskní", "text": "krok za krokem, ale nic nepřináší", "VRSTVA": "JEV"},
+      {"300": "Absurdní", "text": "řád, co se míchá s náhodou", "VRSTVA": "ZÁKON"},
+      {"330": "Surrealistický", "text": "rytmus bez melodie", "VRSTVA": "ENTITA"}
+    ]
+  },
+  {
+    "id": "jednorozec",
+    "text": "nevěřím na delfíny ani na lední medvědy",
+    "ilustrace": "doma/ilustrace/jednorozec.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/jednorozec.txt",
+    "angles": [
+      {"0": "Analytický", "text": "bytost která zapírá vlastní vznik", "VRSTVA": "ROLE"},
+      {"30": "Kulturní", "text": "mýtus který se bojí vědy", "VRSTVA": "ČAS"},
+      {"60": "Filozofický", "text": "kdo určuje co je skutečnější – výjimka nebo pravidlo", "VRSTVA": "SYMBOL"},
+      {"90": "Naivní", "text": "prostě se mi to nehodí do příběhu", "VRSTVA": "PROSTŘEDÍ"},
+      {"120": "Jazykový", "text": "víra jako slovník ne jako fakt", "VRSTVA": "ZÁKON"},
+      {"150": "Metaforický", "text": "tvor mezi snem a evolucí", "VRSTVA": "SYMBOL"},
+      {"180": "Asociační", "text": "obrana identity popřením původu", "VRSTVA": "PORUCHA ŘEČI"},
+      {"210": "Intro", "text": "když připustím je rozpadnu se já", "VRSTVA": "STAV"},
+      {"240": "Ironický", "text": "nevěřící symbol víry", "VRSTVA": "JAZYK"},
+      {"270": "Groteskní", "text": "čistota zrozená z nehody", "VRSTVA": "ENTITA"},
+      {"300": "Absurdní", "text": "popření reality z pozice mýtu", "VRSTVA": "AKCE"},
+      {"330": "Surrealistický", "text": "fantazie odmítající biologii", "VRSTVA": "JEV"}
+    ]
+  },
+  {
+    "id": "kravy",
+    "text": "bú bú bú blbnu ti hlavu bú",
+    "ilustrace": "doma/ilustrace/kravy.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/kravy.txt",
+    "angles": [
+      {"0": "Analytický", "text": "užitečnost ztrácí cenu, když smysl nelze prodat", "VRSTVA": "HODNOTA"},
+      {"30": "Kulturní", "text": "reality show na pastvě", "VRSTVA": "AKCE"},
+      {"60": "Filozofický", "text": "společné bú jako hranice vědomí", "VRSTVA": "ČAS"},
+      {"90": "Naivní", "text": "možná jen mluví nahlas", "VRSTVA": "PROSTŘEDÍ"},
+      {"120": "Jazykový", "text": "onomatopická diagnóza", "VRSTVA": "STAV"},
+      {"150": "Metaforický", "text": "hloupost jako metoda myšlení", "VRSTVA": null},
+      {"180": "Asociační", "text": "posvátný chaos stáda", "VRSTVA": "JAZYK"},
+      {"210": "Intro", "text": "i moje hlava občas dělá bú", "VRSTVA": "ENTITA"},
+      {"240": "Ironický", "text": "když se stupidita synchronizuje, zní to jako mantra", "VRSTVA": "ZÁKON"},
+      {"270": "Groteskní", "text": "orchestr masek a tlam", "VRSTVA": "PORUCHA ŘEČI"},
+      {"300": "Absurdní", "text": "kolektivní meditace přežvýkavců", "VRSTVA": "SYMBOL"},
+      {"330": "Surrealistický", "text": "příběh se rozpadá na ozvěny, které řídí děj", "VRSTVA": "ROLE"}
+    ]
+  },
+  {
+    "id": "zralok",
+    "text": "nad : pod = 1 : 1",
+    "ilustrace": "doma/ilustrace/zralok.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/zralok.txt",
+    "angles": [
+      {"0": "Analytický", "text": "sebekontrola predátora", "VRSTVA": "ČAS"},
+      {"30": "Kulturní", "text": "mýtus hrozby zredukovaný na čísla", "VRSTVA": "AKCE"},
+      {"60": "Filozofický", "text": "viditelné a skryté mají stejnou váhu", "VRSTVA": "ZÁKON"},
+      {"90": "Naivní", "text": "je to fér", "VRSTVA": "JEV"},
+      {"120": "Jazykový", "text": "poměr místo příběhu", "VRSTVA": "ENTITA"},
+      {"150": "Metaforický", "text": null, "VRSTVA": null},
+      {"180": "Asociační", "text": "strážce hranice", "VRSTVA": "PROSTŘEDÍ"},
+      {"210": "Intro", "text": "hlídám si míru", "VRSTVA": "PORUCHA ŘEČI"},
+      {"240": "Ironický", "text": "rovnováha, která děsí", "VRSTVA": "ROLE"},
+      {"270": "Groteskní", "text": "kalkulovaný instinkt", "VRSTVA": "STAV"},
+      {"300": "Absurdní", "text": "rovnice existence", "VRSTVA": "ČAS"},
+      {"330": "Surrealistický", "text": "matematika v oceánu", "VRSTVA": "SYMBOL"}
+    ]
+  },
+  {
+    "id": "vlk",
+    "text": "červený kříž [překlad pro barvoslepost vlka]",
+    "ilustrace": "doma/ilustrace/vlk.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/vlk.txt",
+    "angles": [
+      {"0": "Analytický", "text": "realita bez barvy je pořád realita", "VRSTVA": null},
+      {"30": "Kulturní", "text": "symbol co ztratil červenou", "VRSTVA": "JAZYK"},
+      {"60": "Filozofický", "text": "etika bez barev", "VRSTVA": "STAV"},
+      {"90": "Naivní", "text": null, "VRSTVA": null},
+      {"120": "Jazykový", "text": "záchrana jako špatně přeložené slovo", "VRSTVA": "PORUCHA ŘEČI"},
+      {"150": "Metaforický", "text": "mluvení tvoří písmo", "VRSTVA": "GESTO"},
+      {"180": "Asociační", "text": "šedý svět plný vzorů", "VRSTVA": null},
+      {"210": "Intro", "text": "myslel že je to značka jídla", "VRSTVA": "ČAS"},
+      {"240": "Ironický", "text": "pomoc kterou nepoznáš když jsi hladový", "VRSTVA": "PROSTŘEDÍ"},
+      {"270": "Groteskní", "text": "charita jako love story", "VRSTVA": "ROLE"},
+      {"300": "Absurdní", "text": "humanita v rukou predátora", "VRSTVA": "JEV"},
+      {"330": "Surrealistický", "text": "vlčí doktor bez očních filtrů", "VRSTVA": "SYMBOL"}
+    ]
+  },
+  {
+    "id": "panda",
+    "text": "jsem barevnější než dalmatin. Pssst",
+    "ilustrace": "doma/ilustrace/panda.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/panda.txt",
+    "angles": [
+      {"0": "Archetypální", "text": "klaun individuality", "VRSTVA": "SYMBOL"},
+      {"30": "Kulturní", "text": "disneyho bastard sebevědomí", "VRSTVA": "ROLE"},
+      {"60": "Filozofický", "text": "odlišnost jako důkaz života", "VRSTVA": "ENTITA"},
+      {"90": "Naivní", "text": "chce být prostě jiná", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "srovnávací stupeň existence", "VRSTVA": "PROSTŘEDÍ"},
+      {"150": "Metaforický", "text": "barva jako tvrzení, ne vjem", "VRSTVA": "JAZYK"},
+      {"180": "Psychologický", "text": "potřeba zazářit mezi skvrnami", "VRSTVA": "ČAS"},
+      {"210": "Intro", "text": "každá moje barva je trochu lež", "VRSTVA": "JAZYK"},
+      {"240": "Ironický", "text": "ego jako paleta se špatným krytím", "VRSTVA": "STAV"},
+      {"270": "Groteskní", "text": "estetická diagnóza ega", "VRSTVA": "PORUCHA ŘEČI"},
+      {"300": "Absurdní", "text": "reklama na identitu v černobílém světě", "VRSTVA": "AKCE"},
+      {"330": "Surrealistický", "text": "barvy které neexistují ale štěkají", "VRSTVA": "JEV"}
+    ]
+  },
+  {
+    "id": "lemur",
+    "text": "nejlepší je nechat to být, vše ostatní je moc nápadné",
+    "ilustrace": "doma/ilustrace/lemur.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/lemur.txt",
+    "angles": [
+      {"0": "Analytický", "text": "viditelnost je sociální dohoda, ne fyzický fakt", "VRSTVA": "SYSTÉM"},
+      {"30": "Kulturní", "text": "kontrast k výkonu", "VRSTVA": "PORUCHA ŘEČI"},
+      {"60": "Filozofický", "text": "význam ticha mezi možnostmi", "VRSTVA": "JAZYK"},
+      {"90": "Naivní", "text": "nenápadnost křičící", "VRSTVA": "ROLE"},
+      {"120": "Jazykový", "text": "věta která ruší všechny ostatní", "VRSTVA": "JEV"},
+      {"150": "Metaforický", "text": "ticho, které má barvy", "VRSTVA": null},
+      {"180": "Asociační", "text": "zářivá bytost zakrytá dekou nezájmu", "VRSTVA": "DEFORMACE"},
+      {"210": "Intro", "text": "úleva z nevolby", "VRSTVA": "PROSTŘEDÍ"},
+      {"240": "Ironický", "text": "nečinnost jako strategie", "VRSTVA": "ČAS"},
+      {"270": "Groteskní", "text": "viditelná nenápadnost", "VRSTVA": "ENTITA"},
+      {"300": "Absurdní", "text": "aktivní pasivita", "VRSTVA": "ZÁKON"},
+      {"330": "Surrealistický", "text": "zmražený okamžik", "VRSTVA": "AKCE"}
+    ]
+  },
+  {
+    "id": "plamenak",
+    "text": "lalalá poletíme spolu zřítíme se dolů lalalá budeme na hlavu",
+    "ilustrace": "doma/ilustrace/plamenak.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/plamenak.txt",
+    "angles": [
+      {"0": "Analytický", "text": "existuje dno, když ho pojmenuješ", "VRSTVA": null},
+      {"30": "Kulturní", "text": "lehkost tváří v tvář pádu", "VRSTVA": "STAV"},
+      {"60": "Filozofický", "text": "směr ztrácí význam, když se zpívá", "VRSTVA": "PROSTŘEDÍ"},
+      {"90": "Naivní", "text": "když zpíváme, nebolí to", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "duet s katastrofou", "VRSTVA": "ROLE"},
+      {"150": "Metaforický", "text": "popření reality rytmem", "VRSTVA": "AKCE"},
+      {"180": "Asociační", "text": "hlavou dolů, srdcem vzhůru", "VRSTVA": null},
+      {"210": "Intro", "text": "radši letím špatně než sama", "VRSTVA": "ČAS"},
+      {"240": "Ironický", "text": "optimismus bez brzd", "VRSTVA": "PORUCHA ŘEČI"},
+      {"270": "Groteskní", "text": "balet kolapsu", "VRSTVA": "JAZYK"},
+      {"300": "Absurdní", "text": "pád jako společenská hra", "VRSTVA": "JEV"},
+      {"330": "Surrealistický", "text": "tanec v kosmu", "VRSTVA": "SYMBOL"}
+    ]
+  },
+  {
+    "id": "had",
+    "text": "Ďáblové jsou původem z nebes!",
+    "ilustrace": "doma/ilustrace/had.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/had.txt",
+    "angles": [
+      {"0": "Analytický", "text": "osvícení ztrátou původu", "VRSTVA": "JEV"},
+      {"30": "Kulturní", "text": "apokryf z okraje módního časopisu", "VRSTVA": "JAZYK"},
+      {"60": "Filozofický", "text": "zlo jako vedlejší produkt světla", "VRSTVA": "ZÁKON"},
+      {"90": "Naivní", "text": "mezi jako skutečné místo", "VRSTVA": null},
+      {"120": "Jazykový", "text": "věta která se svíjí jako to o čem mluví", "VRSTVA": "AKCE"},
+      {"150": "Metaforický", "text": "Lucifer v krajce", "VRSTVA": "ENTITA"},
+      {"180": "Asociační", "text": "slova se plazí po zemi", "VRSTVA": "JEV"},
+      {"210": "Intro", "text": "možná mám taky svůj hadí původ", "VRSTVA": "SYMBOL"},
+      {"240": "Ironický", "text": "moralita v převleku za evoluci", "VRSTVA": "ČAS"},
+      {"270": "Groteskní", "text": "Rajská zahrada v make-up tutoriálu", "VRSTVA": "PROSTŘEDÍ"},
+      {"300": "Absurdní", "text": "nebeská chyba v živočišné výrobě", "VRSTVA": "STAV"},
+      {"330": "Surrealistický", "text": "anděl co zapomněl křídla ale nechal si jazyk", "VRSTVA": "PORUCHA ŘEČI"}
+    ]
+  },
+  {
+    "id": "tygr",
+    "text": "(dívka): až vyrostu budu princeznou + (žába): až vyrostu budu TYGR",
+    "ilustrace": "doma/ilustrace/tygr.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/tygr.txt",
+    "angles": [
+      {"0": "Archetypální", "text": "sny které definují", "VRSTVA": "JEV"},
+      {"30": "Kulturní", "text": "očekávání vs. realita", "VRSTVA": "ZÁKON"},
+      {"60": "Filozofický", "text": "identita jako transformace", "VRSTVA": "ČAS"},
+      {"90": "Naivní", "text": "každý má své sny", "VRSTVA": "JAZYK"},
+      {"120": "Jazykový", "text": "přání přeložené do symbolu", "VRSTVA": "ENTITA"},
+      {"150": "Metaforický", "text": "kouzlo jako špatný překlad přání", "VRSTVA": "JAZYK"},
+      {"180": "Psychologický", "text": "touha po moci a síle", "VRSTVA": "SYMBOL"},
+      {"210": "Intro", "text": "kdo se stane kým?", "VRSTVA": "AKCE"},
+      {"240": "Ironický", "text": "role která mění vlastní formu", "VRSTVA": "ROLE"},
+      {"270": "Groteskní", "text": "překvapení z předvídatelného", "VRSTVA": "PORUCHA ŘEČI"},
+      {"300": "Absurdní", "text": "očekávání naruby", "VRSTVA": "STAV"},
+      {"330": "Surrealistický", "text": "zvířecí metafora dětství", "VRSTVA": "PROSTŘEDÍ"}
+    ]
+  },
+  {
+    "id": "liska",
+    "text": "kožich z lišky, z hadí kůže boty, mrožovinové šperky a srdce je kámen. Diamant. Velký.",
+    "ilustrace": "doma/ilustrace/liska.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/liska.txt",
+    "angles": [
+      {"0": "Analytický", "text": "hodnota živého je překládána do luxusního zboží", "VRSTVA": null},
+      {"30": "Kulturní", "text": "kritika konzumu identity", "VRSTVA": "ČAS"},
+      {"60": "Filozofický", "text": "co zůstane když sebereme funkci", "VRSTVA": "AKCE"},
+      {"90": "Naivní", "text": "hodí se to", "VRSTVA": "ZÁKON"},
+      {"120": "Jazykový", "text": "tělo přeložené do předmětů", "VRSTVA": "SYMBOL"},
+      {"150": "Metaforický", "text": "ticho, které má tvar", "VRSTVA": "STAV"},
+      {"180": "Asociační", "text": "diamant černá pravdou", "VRSTVA": "JEV"},
+      {"210": "Intro", "text": "oběť civilizace", "VRSTVA": "JAZYK"},
+      {"240": "Ironický", "text": "luxus ztrácí lesk", "VRSTVA": "JEV"},
+      {"270": "Groteskní", "text": "anatomie trhu", "VRSTVA": "PROSTŘEDÍ"},
+      {"300": "Absurdní", "text": "rozebraná bytost bez montážního návodu", "VRSTVA": "ENTITA"},
+      {"330": "Surrealistický", "text": "živá legenda bez těla", "VRSTVA": "ROLE"}
+    ]
+  },
+  {
+    "id": "prase",
+    "text": "tady není záchod?",
+    "ilustrace": "doma/ilustrace/prase.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/prase.txt",
+    "angles": [
+      {"0": "Analytický", "text": "eufemismus proti gravitaci", "VRSTVA": "JAZYK"},
+      {"30": "Kulturní", "text": "faux pas v těle stereotypu", "VRSTVA": "SYMBOL"},
+      {"60": "Filozofický", "text": "civilizace je otázka kontextu", "VRSTVA": "JEV"},
+      {"90": "Naivní", "text": "stud jako naučený konstrukt", "VRSTVA": "AKCE"},
+      {"120": "Jazykový", "text": "otázka která rozbíjí decorum", "VRSTVA": "ENTITA"},
+      {"150": "Metaforický", "text": "trickster nepatřičnosti", "VRSTVA": "ROLE"},
+      {"180": "Asociační", "text": "co je tělo a co je nádoba", "VRSTVA": "STAV"},
+      {"210": "Intro", "text": "neorientuji se v pravidlech", "VRSTVA": "ZÁKON"},
+      {"240": "Ironický", "text": "nevhodnost jako zrcadlo prostředí", "VRSTVA": "PROSTŘEDÍ"},
+      {"270": "Groteskní", "text": "etiketa v bahně", "VRSTVA": "ČAS"},
+      {"300": "Absurdní", "text": "společenský omyl s rypákem", "VRSTVA": "PORUCHA ŘEČI"},
+      {"330": "Surrealistický", "text": "slova na špatném místě", "VRSTVA": "JAZYK"}
+    ]
+  },
+  {
+    "id": "hvezdice",
+    "text": "kruhy na vodě jsou jizvy po kamenech",
+    "ilustrace": "doma/ilustrace/hvezdice.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/hvezdice.txt",
+    "angles": [
+      {"0": "Analytický", "text": "jedna událost promění celé prostředí", "VRSTVA": null},
+      {"30": "Kulturní", "text": "symboly přežití", "VRSTVA": "JAZYK"},
+      {"60": "Filozofický", "text": "každý pohyb zanechává stopu", "VRSTVA": "JEV"},
+      {"90": "Naivní", "text": "prostě se to stalo", "VRSTVA": "AKCE"},
+      {"120": "Jazykový", "text": "otisk události jako poezie", "VRSTVA": "PROSTŘEDÍ"},
+      {"150": "Metaforický", "text": "jizvy kreslí ornament minulosti", "VRSTVA": "ČAS"},
+      {"180": "Asociační", "text": "povrch prodává efekt, hloubka nese cenu", "VRSTVA": "PORUCHA ŘEČI"},
+      {"210": "Intro", "text": "každý kámen má příběh", "VRSTVA": "ZÁKON"},
+      {"240": "Ironický", "text": "neviditelná bolest je vidět jen v kruzích", "VRSTVA": "ENTITA"},
+      {"270": "Groteskní", "text": "kruhy se smějí a bolí zároveň", "VRSTVA": "ROLE"},
+      {"300": "Absurdní", "text": "voda pamatuje", "VRSTVA": "STAV"},
+      {"330": "Surrealistický", "text": "vlny jako jizvy", "VRSTVA": "SYMBOL"}
+    ]
+  },
+  {
+    "id": "drak",
+    "text": "kuck kuck ehl eche kuck. Zákaz kouření",
+    "ilustrace": "doma/ilustrace/drak.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/drak.txt",
+    "angles": [
+      {"0": "Analytický", "text": "cedule snáší vejce", "VRSTVA": null},
+      {"30": "Kulturní", "text": "potlačený vztek s reklamním logem", "VRSTVA": "ČAS"},
+      {"60": "Filozofický", "text": "kašel co vypráví příběh", "VRSTVA": "AKCE"},
+      {"90": "Naivní", "text": "kašel je jen přerušené slovo", "VRSTVA": "PORUCHA ŘEČI"},
+      {"120": "Jazykový", "text": "zvuk jako porušení pravidel", "VRSTVA": "STAV"},
+      {"150": "Metaforický", "text": "zákaz jako značka významu", "VRSTVA": "JAZYK"},
+      {"180": "Asociační", "text": "přestupek bez hříchu", "VRSTVA": "JEV"},
+      {"210": "Intro", "text": "chrchlání jako čin", "VRSTVA": "ZÁKON"},
+      {"240": "Ironický", "text": "nepřestupek je vnímán jako hrozba", "VRSTVA": "PROSTŘEDÍ"},
+      {"270": "Groteskní", "text": "drak na detoxu", "VRSTVA": "ENTITA"},
+      {"300": "Absurdní", "text": "kašel místo plamene", "VRSTVA": "SYMBOL"},
+      {"330": "Surrealistický", "text": "legenda v karanténě", "VRSTVA": "ROLE"}
+    ]
+  }
+]
