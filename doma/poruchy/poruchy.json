@@ -4,7 +4,7 @@
     "ilustrace": "doma/ilustrace/mys.jpg",
     "text_ilustrace": "chceš myš??",
     "kriva_pohadka": "doma/kriva_pohadka/mys.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -12,7 +12,7 @@
     "ilustrace": "doma/ilustrace/netopyr.jpg",
     "text_ilustrace": "krása, co ráno už se nehodí",
     "kriva_pohadka": "doma/kriva_pohadka/netopyr.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -20,7 +20,7 @@
     "ilustrace": "doma/ilustrace/ryba.jpg",
     "text_ilustrace": "rybí rap",
     "kriva_pohadka": "doma/kriva_pohadka/ryba.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -28,7 +28,7 @@
     "ilustrace": "doma/ilustrace/pavouk.jpg",
     "text_ilustrace": "Všechno zůstalo viset. Jen tak. Tak.",
     "kriva_pohadka": "doma/kriva_pohadka/pavouk.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -36,7 +36,7 @@
     "ilustrace": "doma/ilustrace/zajic.jpg",
     "text_ilustrace": "zaječice skočí do plamenů, ale neshoří. Aneb zajícem nezatopíš.",
     "kriva_pohadka": "doma/kriva_pohadka/zajic.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -44,7 +44,7 @@
     "ilustrace": "doma/ilustrace/kocour.jpg",
     "text_ilustrace": "Kocour sežral dvě berušky a půl hodiny krkal tečky",
     "kriva_pohadka": "doma/kriva_pohadka/kocour.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -52,7 +52,7 @@
     "ilustrace": "doma/ilustrace/pav.jpg",
     "text_ilustrace": "oko za okem. páv za pávem",
     "kriva_pohadka": "doma/kriva_pohadka/pav.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -60,7 +60,7 @@
     "ilustrace": "doma/ilustrace/motyl.jpg",
     "text_ilustrace": "motýlů v břiše se nenajíš",
     "kriva_pohadka": "doma/kriva_pohadka/motyl.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -68,7 +68,7 @@
     "ilustrace": "doma/ilustrace/krokodyl.jpg",
     "text_ilustrace": "tento týden sleva 90% krokodýlí slzy totální výprodej",
     "kriva_pohadka": "doma/kriva_pohadka/krokodyl.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -76,7 +76,7 @@
     "ilustrace": "doma/ilustrace/cap.jpg",
     "text_ilustrace": "jedna dvě čáp letí… NEprodáme",
     "kriva_pohadka": "doma/kriva_pohadka/cap.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -84,7 +84,7 @@
     "ilustrace": "doma/ilustrace/osel.jpg",
     "text_ilustrace": "levá pravá seno sláma pro jednoho psina pro druhého oslovina jedna dvě raz raz dva",
     "kriva_pohadka": "doma/kriva_pohadka/osel.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -92,7 +92,7 @@
     "ilustrace": "doma/ilustrace/jednorozec.jpg",
     "text_ilustrace": "nevěřím na delfíny ani na lední medvědy",
     "kriva_pohadka": "doma/kriva_pohadka/jednorozec.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -100,7 +100,7 @@
     "ilustrace": "doma/ilustrace/kravy.jpg",
     "text_ilustrace": "bú bú bú blbnu ti hlavu bú",
     "kriva_pohadka": "doma/kriva_pohadka/kravy.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -108,7 +108,7 @@
     "ilustrace": "doma/ilustrace/zralok.jpg",
     "text_ilustrace": "nad : pod = 1 : 1",
     "kriva_pohadka": "doma/kriva_pohadka/zralok.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -116,7 +116,7 @@
     "ilustrace": "doma/ilustrace/vlk.jpg",
     "text_ilustrace": "červený kříž [překlad pro barvoslepost vlka]",
     "kriva_pohadka": "doma/kriva_pohadka/vlk.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -124,7 +124,7 @@
     "ilustrace": "doma/ilustrace/panda.jpg",
     "text_ilustrace": "jsem barevnější než dalmatin. Pssst",
     "kriva_pohadka": "doma/kriva_pohadka/panda.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -132,7 +132,7 @@
     "ilustrace": "doma/ilustrace/lemur.jpg",
     "text_ilustrace": "nejlepší je nechat to být, vše ostatní je moc nápadné",
     "kriva_pohadka": "doma/kriva_pohadka/lemur.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -140,7 +140,7 @@
     "ilustrace": "doma/ilustrace/plamenak.jpg",
     "text_ilustrace": "lalalá poletíme spolu zřítíme se dolů lalalá budeme na hlavu",
     "kriva_pohadka": "doma/kriva_pohadka/plamenak.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -148,7 +148,7 @@
     "ilustrace": "doma/ilustrace/had.jpg",
     "text_ilustrace": "Ďáblové jsou původem z nebes!",
     "kriva_pohadka": "doma/kriva_pohadka/had.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -156,7 +156,7 @@
     "ilustrace": "doma/ilustrace/tygr.jpg",
     "text_ilustrace": "(dívka): až vyrostu budu princeznou + (žába): až vyrostu budu TYGR",
     "kriva_pohadka": "doma/kriva_pohadka/tygr.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -164,7 +164,7 @@
     "ilustrace": "doma/ilustrace/liska.jpg",
     "text_ilustrace": "kožich z lišky, z hadí kůže boty, mrožovinové šperky a srdce je kámen. Diamant. Velký.",
     "kriva_pohadka": "doma/kriva_pohadka/liska.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -172,7 +172,7 @@
     "ilustrace": "doma/ilustrace/prase.jpg",
     "text_ilustrace": "tady není záchod?",
     "kriva_pohadka": "doma/kriva_pohadka/prase.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -180,7 +180,7 @@
     "ilustrace": "doma/ilustrace/hvezdice.jpg",
     "text_ilustrace": "kruhy na vodě jsou jizvy po kamenech",
     "kriva_pohadka": "doma/kriva_pohadka/hvezdice.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   },
   {
@@ -188,7 +188,7 @@
     "ilustrace": "doma/ilustrace/drak.jpg",
     "text_ilustrace": "kuck kuck ehl eche kuck. Zákaz kouření",
     "kriva_pohadka": "doma/kriva_pohadka/drak.txt",
-    "uhly": "doma/poruchy_uhly_v1.json",
+    "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
   }
 ]
