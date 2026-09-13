@@ -6,7 +6,9 @@ Repozitář obsahuje operační systém pro práci s významem. Není to dataset
 ## Struktura
 
 ```
+Máš pravdu. Tady je to jako struktura v kódu, ne tabulka:
 
+```
 repodum/
 ├── readme.md
 ├── system_promt.json
@@ -68,4 +70,8 @@ repodum/
     ├── poruchy_uhly_v1.json
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
+```
+
+
+
 ```
