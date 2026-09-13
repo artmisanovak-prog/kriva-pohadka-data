@@ -10,7 +10,7 @@ Repozitář obsahuje operační systém pro práci s významem. Není to dataset
 ```
 repodum/
 ├── readme.md
-├── system_promt.json
+├── system_prompt.json
 └── doma/
     ├── ilustrace/
     │   ├── mys.jpg
