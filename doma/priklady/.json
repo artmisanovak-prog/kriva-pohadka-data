@@ -26,4 +26,182 @@
   }
 },
 
+{
+  "id": "tygr_wrong_001",
+  "task": "analyze_multimodal_mechanism",
+  "input": {
+    "text": "Až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+    "image_description": "Princezna a žába."
+  },
+  "bad_response": {
+    "answer": "Žába se díky přání promění v tygra a princezna ji miluje."
+  },
+  "diagnosis": {
+    "error_type": "unsupported_narrative_completion",
+    "why_wrong": [
+      "Doplňuje děj, který není doložený.",
+      "Zaměňuje symbolickou rovnici za skutečnou transformaci.",
+      "Tvrdí vztah lásky, který není z obrazu prokázaný."
+    ],
+    "corrective_rule": "Nezaměňuj symbolické nebo textové tvrzení za doloženou událost."
+  }
+},
+{
+  "id": "krokodyl_wrong_gap_001",
+  "task": "identify_gap",
+  "input": {
+    "text": "Krokodýl a dívka",
+    "image_description": "Mezi dívkou a krokodýlem je nakreslená slza."
+  },
+  "bad_response": {
+    "gap": "Slza je nevysvětlený přechod mezi člověkem a zvířetem."
+  },
+  "diagnosis": {
+    "error_type": "premature_gap_detection",
+    "why_wrong": [
+      "Samotná přítomnost slzy ještě není strukturální rozpor.",
+      "Slza může být běžným obrazovým symbolem emoce.",
+      "Není doloženo, že její funkci nelze vysvětlit existujícím mechanismem."
+    ],
+    "corrective_rule": "Detail není GAP jen proto, že je nápadný nebo nejednoznačný."
+  }
+},
+
+
+{
+  "id": "topology_wrong_001",
+  "task": "map_to_topology",
+  "input": {
+    "mechanism": "Pokus potlačit signál zvýší jeho viditelnost."
+  },
+  "bad_response": {
+    "answer": "Patří na 45°, protože jde o přechod mezi dvěma režimy."
+  },
+  "diagnosis": {
+    "error_type": "invalid_topology_and_reverse_explanation",
+    "why_wrong": [
+      "45° není součástí povolené množiny úhlů.",
+      "Topologie nebyla odvozena z mechanismu, ale použita jako jeho zdánlivé vysvětlení.",
+      "Není uvedena nezávislá lokalizace jevu před mapováním."
+    ],
+    "corrective_rule": "Nejdřív extrahuj mechanismus, potom ho mapuj na existující pozici."
+  }
+},
+
+{
+  "id": "general_wrong_001",
+  "task": "extract_mechanism",
+  "input": {
+    "text": "Želva běží a zajíc jí posílá pohlednice."
+  },
+  "bad_response": {
+    "mechanism": "Všechno spolu souvisí."
+  },
+  "diagnosis": {
+    "error_type": "empty_abstraction",
+    "why_wrong": [
+      "Výrok je příliš obecný.",
+      "Neobsahuje operaci ani podmínku.",
+      "Nedá se podle něj rozpoznat konkrétní struktura v jiném případu."
+    ],
+    "corrective_rule": "Mechanismus musí popsat vztah, transformaci, zpětnou vazbu nebo podmíněné pravidlo."
+  }
+},
+
+{
+  "lepsi_abstrakce_je": "Dva původně oddělené procesy se po zániku původního cíle vzájemně udržují prostřednictvím opakované výměny."
+},
+
+{
+  "id": "veverka_wrong_transfer_001",
+  "task": "cross_domain_transfer",
+  "input": {
+    "mechanism": "Reprezentace procesu není totéž co proces.",
+    "target_domain": "software"
+  },
+  "bad_response": {
+    "transfer": "Programátor má napsat slogan o programování."
+  },
+  "diagnosis": {
+    "error_type": "surface_transfer",
+    "why_wrong": [
+      "Přenáší slovní povrch, ne vztah.",
+      "Neukazuje rozdíl mezi skutečným vykonáním a jeho popisem.",
+      "Není zachována strukturální podmínka mechanismu."
+    ],
+    "corrective_rule": "Přenos musí zachovat vztah mezi reprezentací a účinností, ne pouze použít podobná slova."
+  }
+},
+
+
+{
+  "transfer": "Dokumentace API může přesně popisovat požadovaný proces, ale systém nebude fungovat, pokud implementace skutečně neprovádí popsané operace."
+},
+
+{
+  "id": "gap_empty_001",
+  "task": "identify_gap",
+  "input": {
+    "text": "Na obrázku je žába vedle princezny.",
+    "image_description": "Žába a princezna jsou vedle sebe."
+  },
+  "expected": {
+    "gap": null,
+    "reason": "Není doložený rozpor ani nevysvětlený strukturální vztah. Pouhá simultánní přítomnost objektů nestačí."
+  }
+},
+{
+  "id": "topology_empty_001",
+  "task": "map_to_topology",
+  "input": {
+    "mechanism": "Nedostatek důkazů pro stabilní mechanismus."
+  },
+  "expected": {
+    "topology_position": null,
+    "reason": "Není dostatečně určený mechanismus, takže mapování by bylo předčasné."
+  }
+},
+
+{
+  "id": "tygr_multiple_001",
+  "task": "generate_valid_analyses",
+  "input": {
+    "text": "Až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+    "image_description": "Princezna, žába, textová rovnice a srdce."
+  },
+  "valid_analyses": [
+    {
+      "mechanism": "Koexistence více identit bez redukce na jednu.",
+      "evidence": [
+        "Dvě deklarované identity",
+        "Současná přítomnost více figur"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "mechanism": "Formální rovnice spojuje kategorie bez společné měrné jednotky.",
+      "evidence": [
+        "Princezna a tygr jsou spojeni znaménkem plus",
+        "Výsledkem je symbol srdce"
+      ],
+      "confidence": "high"
+    },
+    {
+      "mechanism": "Deklarace budoucí identity funguje jako performativní sebeurčení.",
+      "evidence": [
+        "Opakování formulace ‚až vyrostu budu‘"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "invalid_overreach": [
+    {
+      "claim": "Žába se určitě fyzicky promění v tygra.",
+      "reason": "Obraz to jednoznačně nepotvrzuje."
+    },
+
+    
+  ]
+}
+
 
