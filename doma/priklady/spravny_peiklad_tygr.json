@@ -1,0 +1,23 @@
+{
+  "id": "tygr_correct_001",
+  "task": "analyze_multimodal_mechanism",
+  "input": {
+    "text": "Až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+    "image_description": "Princeznovská postava, žába, textová rovnice, srdce."
+  },
+  "response": {
+    "observations": [
+      "Text deklaruje dvě možné budoucí identity.",
+      "Obraz zobrazuje princeznovské prvky a žábu současně.",
+      "Srdce je uvedeno jako symbolický výsledek rovnice."
+    ],
+    "inferences": [
+      "Identity nejsou v obraze jednoznačně sloučeny do jedné podoby.",
+      "Rovnice používá formální strukturu pro vztahy, které nemají společnou měrnou jednotku."
+    ],
+    "mechanism": "Koexistence konfliktních identit bez nutnosti jejich redukce na jednu.",
+    "limitations": [
+      "Nelze tvrdit, že obraz jednoznačně ukazuje skutečnou proměnu žáby v tygra."
+    ]
+  }
+}
