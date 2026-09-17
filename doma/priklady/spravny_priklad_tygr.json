@@ -1,0 +1,27 @@
+{
+  "id": "tygr_001",
+  "task": "extract_mechanism",
+  "input": {
+    "text": "Až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+    "image_description": "Na obraze je princezna, žába a textová rovnice. Žába není jednoznačně přeměněna ani v princeznu, ani v tygra."
+  },
+  "expected": {
+    "observations": [
+      "Text obsahuje dvě deklarované budoucí identity.",
+      "Rovnice spojuje princeznu, tygra a srdce.",
+      "Obraz současně zobrazuje princeznovskou postavu a žábu.",
+      "Není jednoznačně zobrazená dokončená transformace žáby."
+    ],
+    "mechanisms": [
+      {
+        "name": "koexistence neekvivalentních identit",
+        "definition": "Více identit nebo rolí zůstává současně aktivních bez sloučení do jediné výsledné identity."
+      }
+    ],
+    "confidence": "medium",
+    "unsupported_claims": [
+      "Žába se skutečně proměnila v tygra.",
+      "Srdce je prokazatelný výsledek transformace."
+    ]
+  }
+}
