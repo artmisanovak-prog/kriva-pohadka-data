@@ -68,10 +68,9 @@ repodum/
     │   └── zelva.txt
     ├── angles/
     │   ├── topology.json
-    │   ├── topology.json
+    │   ├── poruchy_uhly_v1.json
     │   └── v1.json
     ├── poruchy.json
-    ├── poruchy_uhly_v1.json
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
 
