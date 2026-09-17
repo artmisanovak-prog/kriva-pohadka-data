@@ -12,6 +12,11 @@ repodum/
 ├── readme.md
 ├── system_prompt.json
 └── doma/
+    ├── angles/
+    │   ├── topology.json
+    │   ├── poruchy_uhly_v1.json
+    │   └── v1.json
+    ├── poruchy/
     ├── ilustrace/
     │   ├── mys.jpg
     │   ├── netopyr.jpg
@@ -66,11 +71,8 @@ repodum/
     │   ├── drak.txt
     │   ├── veverka.txt
     │   └── zelva.txt
-    ├── angles/
-    │   ├── topology.json
-    │   ├── poruchy_uhly_v1.json
-    │   └── v1.json
     ├── poruchy.json
+    ├── priklady.json
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
 
