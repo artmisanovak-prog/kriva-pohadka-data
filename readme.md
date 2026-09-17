@@ -71,7 +71,7 @@ repodum/
     │   ├── drak.txt
     │   ├── veverka.txt
     │   └── zelva.txt
-    ├── poruchy.json
+    ├── zaznam_trening_tygr.json
     ├── priklady.json
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
