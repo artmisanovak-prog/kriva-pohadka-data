@@ -1,0 +1,75 @@
+{
+  "instruction": "Odděl přímé události od interpretací.",
+  "input": "text pohádky o tygrovi",
+  "output": {
+    "observations": [
+      "Žába se stane tygrem.",
+      "Princezna očekává prince.",
+      "Polibek je předefinován jako souhlas nebo překlad přání."
+    ],
+    "interpretations": [
+      "Pohádka narušuje tradiční romantický scénář."
+    ]
+  }
+},
+
+{
+  "instruction": "Najdi transformační pravidlo a popiš jeho změnu.",
+  "input": "text pohádky o tygrovi",
+  "output": {
+    "original_rule": "žába + polibek → princ",
+    "local_rule": "žába + přání → tygr",
+    "operation": "změna transformačního pravidla při zachování motivu kouzelné proměny"
+  }
+},
+
+{
+  "instruction": "Uveď povrchový motiv a strukturální mechanismus, který se od něj liší.",
+  "input": "text pohádky o tygrovi",
+  "output": {
+    "surface_motif": "žába, polibek, tygr, princezna",
+    "mechanism": "lokální předefinování pravidla, které určuje výsledek transformace"
+  }
+},
+
+{
+  "instruction": "Oprav příliš obecnou interpretaci.",
+  "input": "Pohádka říká, že láska je svobodná.",
+  "output": {
+    "problem": "Výrok je příliš široký a nepopisuje mechanismus.",
+    "correction": "Text mění kulturně očekávaný výstup kouzelné transformace podle individuálního přání a předefinuje funkci polibku."
+  }
+},
+
+{
+  "instruction": "Přenes mechanismus do jiné domény, nikoli povrchové prvky.",
+  "input": "mechanismus tygra",
+  "output": {
+    "domain": "software",
+    "transfer": "Stejná vstupní operace může mít jiný výstup, pokud lokální konfigurace nahradí výchozí transformační pravidlo."
+  }
+},
+
+{
+  "instruction": "Uveď, co text nedokládá.",
+  "input": "text pohádky o tygrovi",
+  "output": [
+    "Text nedokládá, že všechna přání mění pravidla reality.",
+    "Text nedokládá, že tradiční pravidlo je obecně špatné.",
+    "Text nedokládá, že výsledek byl přesně takový, jaký si všechny postavy přály."
+  ]
+},
+
+{
+  "instruction": "Najdi pouze strukturálně podložený GAP, nebo uveď, že žádný není dostatečně doložen.",
+  "input": "text pohádky o tygrovi",
+  "output": {
+    "gap": "Není zcela určeno, kdo rozhoduje o správnosti překladu přání, pokud je výsledek odlišný od očekávané podoby splnění.",
+    "evidence": [
+      "přání je přeloženo do jiné podoby",
+      "výsledek splní lokální pravidlo, ale naruší očekávání druhé postavy"
+    ],
+    "status": "candidate"
+  }
+},
+
