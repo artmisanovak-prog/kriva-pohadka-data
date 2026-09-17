@@ -11,6 +11,7 @@ Repozitář obsahuje operační systém pro práci s významem. Není to dataset
 repodum/
 ├── readme.md
 ├── system_prompt.json
+├── instrukce.json
 └── doma/
     ├── angles/
     │   ├── topology.json
