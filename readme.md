@@ -36,7 +36,9 @@ repodum/
     │   ├── liska.jpg
     │   ├── prase.jpg
     │   ├── hvezdice.jpg
-    │   └── drak.jpg
+    │   ├── drak.jpg
+    │   ├── veverka.jpg
+    │   └── zelva.jpg
     ├── kriva_pohadka/
     │   ├── mys.txt
     │   ├── netopyr.txt
@@ -61,14 +63,18 @@ repodum/
     │   ├── liska.txt
     │   ├── prase.txt
     │   ├── hvezdice.txt
-    │   └── drak.txt
+    │   ├── drak.txt
+    │   ├── veverka.txt
+    │   └── zelva.txt
     ├── angles/
+    │   ├── topology.json
     │   ├── topology.json
     │   └── v1.json
     ├── poruchy.json
     ├── poruchy_uhly_v1.json
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
+
 ```
 
 
