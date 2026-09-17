@@ -479,5 +479,45 @@
       {"300": "Absurdní", "text": "kašel místo plamene", "VRSTVA": "SYMBOL"},
       {"330": "Surrealistický", "text": "legenda v karanténě", "VRSTVA": "ROLE"}
     ]
+  },
+  {
+    "id": "veverka",
+    "text": "MODLI SE ČINY",
+    "ilustrace": "doma/ilustrace/veverka.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/veverka.txt",
+    "angles": [
+      {"0": "Analytický", "text": "věřit něčemu cizímu protože vlastní už nestačí", "VRSTVA": "STAV"},
+      {"30": "Kulturní", "text": "náboženství v dárkovém balení", "VRSTVA": "SYMBOL"},
+      {"60": "Filozofický", "text": "modlitba jako outsourcing naděje", "VRSTVA": "AKCE"},
+      {"90": "Naivní", "text": "prostě to má napsaný na krabičce", "VRSTVA": "JEV"},
+      {"120": "Jazykový", "text": "sloveso místo modlitby", "VRSTVA": "JAZYK"},
+      {"150": "Metaforický", "text": "činy jako motlitby", "VRSTVA": null},
+      {"180": "Asociační", "text": "potřeba věřit že to aspoň někdo vyrobil správně", "VRSTVA": "ČAS"},
+      {"210": "Intro", "text": "modlím se i když nevím k čemu", "VRSTVA": "PROSTŘEDÍ"},
+      {"240": "Ironický", "text": "duchovno ve výrobě na zakázku", "VRSTVA": "ROLE"},
+      {"270": "Groteskní", "text": "krucifix made in Shenzen", "VRSTVA": "PORUCHA ŘEČI"},
+      {"300": "Absurdní", "text": "víra v importovaný zázrak", "VRSTVA": "ZÁKON"},
+      {"330": "Surrealistický", "text": "Buddha s čárovým kódem", "VRSTVA": "ENTITA"}
+    ]
+  },
+  {
+    "id": "zelva",
+    "text": "běží závod celé roky, zajíc poslal už čtyři pohlednice Sicílie Madrid Grónsko a Nemanice",
+    "ilustrace": "doma/ilustrace/zelva.jpg",
+    "kriva_pohadka": "doma/kriva_pohadka/zelva.txt",
+    "angles": [
+      {"0": "Analytický", "text": "vytrvalost ignorující provokaci", "VRSTVA": "JAZYK"},
+      {"30": "Kulturní", "text": "přepis bajky bez pointy", "VRSTVA": "SYMBOL"},
+      {"60": "Filozofický", "text": "směr je důležitější než tempo", "VRSTVA": "ZÁKON"},
+      {"90": "Naivní", "text": "já si doběhnu", "VRSTVA": "AKCE"},
+      {"120": "Jazykový", "text": "pohyb vyjádřený korespondencí", "VRSTVA": "JEV"},
+      {"150": "Metaforický", "text": "vyhrát závod není cíl", "VRSTVA": null},
+      {"180": "Asociační", "text": "nositel času", "VRSTVA": "ENTITA"},
+      {"210": "Intro", "text": "nečtu hned, ale nesu to s sebou", "VRSTVA": "PORUCHA ŘEČI"},
+      {"240": "Ironický", "text": "rychlost jako rozptýlení", "VRSTVA": "ROLE"},
+      {"270": "Groteskní", "text": "turistika místo sprintu", "VRSTVA": "ČAS"},
+      {"300": "Absurdní", "text": "závod, kde se neběží dopředu, ale skrz čas", "VRSTVA": "PROSTŘEDÍ"},
+      {"330": "Surrealistický", "text": "závod roztažený přes kontinenty", "VRSTVA": "STAV"}
+    ]
   }
 ]
