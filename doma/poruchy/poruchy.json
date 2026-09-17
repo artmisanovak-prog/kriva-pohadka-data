@@ -190,5 +190,21 @@
     "kriva_pohadka": "doma/kriva_pohadka/drak.txt",
     "angles": "doma/angles/poruchy_v1.json",
     "gap": ""
+  },
+{
+    "id": "veverka",
+    "ilustrace": "doma/ilustrace/veverka.jpg",
+    "text_ilustrace": "modli se činy",
+    "kriva_pohadka": "doma/kriva_pohadka/veverka.txt",
+    "angles": "doma/angles/poruchy_v1.json",
+    "gap": ""
+},
+  {
+    "id": "zelva",
+    "ilustrace": "doma/ilustrace/zelva.jpg",
+    "text_ilustrace": "želva běží závod celé roky. Zajíc poslal už čtyři pohlednice - Sicílie, Madrid, Grónsko a Nemanice.",
+    "kriva_pohadka": "doma/kriva_pohadka/zelva.txt",
+    "angles": "doma/angles/poruchy_v1.json",
+    "gap": ""
   }
 ]
