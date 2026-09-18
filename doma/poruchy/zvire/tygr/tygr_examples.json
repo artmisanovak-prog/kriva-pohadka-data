@@ -1,0 +1,151 @@
+{
+  "concept": "tygr",
+  "source_material": {
+    "text": "až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+    "image_description": "Černobílá ilustrace s princeznovskou postavou, žábou, nápisem TYGR a symbolem srdce."
+  },
+  "examples": [
+    {
+      "id": "tygr_001",
+      "task": "extract_mechanism",
+      "input": {
+        "text": "až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+        "image_description": "Princeznovská postava, žába, nápis TYGR a srdce."
+      },
+      "expected": {
+        "observations": [
+          "Text obsahuje dvě paralelní deklarace budoucí identity.",
+          "Jedna deklarace uvádí princeznu.",
+          "Druhá deklarace uvádí tygra.",
+          "Obě identity jsou spojeny znaménkem plus.",
+          "Výsledkem rovnice je symbol srdce.",
+          "Obraz neukazuje jednoznačnou fyzickou proměnu žáby v tygra."
+        ],
+        "mechanism": "Více neekvivalentních identit může zůstat současně aktivních bez redukce na jedinou výslednou identitu.",
+        "abstraction": "Koexistence konkurenčních nebo nesourodých kategorií bez jejich násilného sjednocení.",
+        "confidence": "medium"
+      }
+    },
+    {
+      "id": "tygr_002",
+      "task": "separate_observation_inference",
+      "input": {
+        "text": "až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+        "image_description": "Ženská postava s princeznovskými prvky, žába, textová rovnice a srdce."
+      },
+      "expected": {
+        "observations": [
+          "Text obsahuje formulaci ‚až vyrostu budu‘ dvakrát.",
+          "Text uvádí princeznu a tygra.",
+          "Mezi oběma výrazy je znaménko plus.",
+          "Na konci je srdce.",
+          "V obraze je ženská postava a žába."
+        ],
+        "inferences": [
+          "Princezna a tygr jsou v textu prezentováni jako kombinovatelné prvky.",
+          "Rovnice je pravděpodobně symbolická, nikoli matematická.",
+          "Text a obraz neukazují jednoznačně jednu dokončenou transformaci."
+        ],
+        "interpretations": [
+          "Identita může obsahovat více současných rolí.",
+          "Deklarace budoucí identity může fungovat jako sebeurčení."
+        ]
+      }
+    },
+    {
+      "id": "tygr_003",
+      "task": "diagnose_error",
+      "input": {
+        "text": "až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+        "image_description": "Princeznovská postava, žába, rovnice a srdce."
+      },
+      "bad_response": {
+        "answer": "Žába se promění v tygra a princezna ji miluje."
+      },
+      "diagnosis": {
+        "error_type": "unsupported_event_completion",
+        "why_wrong": [
+          "Fyzická proměna není jednoznačně zobrazena.",
+          "Romantický vztah není doložen.",
+          "Srdce není automaticky důkaz konkrétního milostného děje.",
+          "Model doplnil tradiční pohádkový děj."
+        ],
+        "correction": "Držet se doložených vztahů mezi textem a obrazem a nevytvářet nedoložené události."
+      }
+    },
+    {
+      "id": "tygr_004",
+      "task": "cross_domain_transfer",
+      "input": {
+        "mechanism": "Více různých identit nebo rolí může koexistovat bez redukce na jedinou identitu.",
+        "target_domain": "software_architecture"
+      },
+      "expected": {
+        "source_mechanism": "Koexistence více neekvivalentních rolí bez jejich sjednocení.",
+        "target_domain": "software_architecture",
+        "transfer": "Jeden systém může současně fungovat jako datové úložiště, uživatelské rozhraní a auditní mechanismus, aniž by se musel zařadit pouze do jedné kategorie.",
+        "preserved_structure": "Více odlišných funkcí zůstává současně aktivních v jednom systému.",
+        "lost_structure_risk": "Povrchní transfer by pouze použil slova ‚tygr‘ nebo ‚princezna‘ bez zachování vztahu mezi různými rolemi."
+      }
+    },
+    {
+      "id": "tygr_005",
+      "task": "identify_gap",
+      "input": {
+        "text": "až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+        "image_description": "Princeznovská postava, žába, textová rovnice a srdce."
+      },
+      "expected": {
+        "gap": null,
+        "evidence": [
+          "Nejasnost významu srdce sama o sobě nestačí.",
+          "Současná přítomnost více identit má možné vysvětlení.",
+          "Není doložený strukturální rozpor, který by vyžadoval nový mechanismus."
+        ],
+        "why_not_gap": "Materiál je nejednoznačný, ale ne každá nejednoznačnost je GAP. Zatím není prokázáno, že existující mechanismy nedokážou vztahy vysvětlit."
+      }
+    },
+    {
+      "id": "tygr_006",
+      "task": "topological_mapping",
+      "input": {
+        "mechanism": "Koexistence více neekvivalentních identit bez redukce na jedinou identitu.",
+        "available_positions": [
+          0,
+          30,
+          60,
+          90,
+          120,
+          150,
+          180,
+          210,
+          240,
+          270,
+          300,
+          330
+        ]
+      },
+      "expected": {
+        "independent_mechanism": "Více neekvivalentních identit zůstává současně aktivních bez jejich sjednocení.",
+        "candidate_position": null,
+        "mapping_reason": "Mechanismus lze extrahovat, ale bez nezávislé definice významu topologických pozic nelze určit konkrétní úhel.",
+        "mapping_uncertainty": "high"
+      }
+    },
+    {
+      "id": "tygr_007",
+      "task": "reject_overinterpretation",
+      "input": {
+        "text": "až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+        "image_description": "Ženská postava, žába, nápis TYGR a srdce."
+      },
+      "bad_response": {
+        "answer": "Koruna znamená patriarchální moc, žába potlačenou ženskost a tygr agresivní sexualitu."
+      },
+      "diagnosis": {
+        "error_type": "overinterpretation_of_every_detail",
+        "correction": "Nepřiřazovat každému obrazovému detailu hluboký význam bez opory v kompozici, textu nebo opakovaném strukturálním vztahu."
+      }
+    }
+  ]
+}
