@@ -1,0 +1,39 @@
+{
+  "id": "tygr_multiple_001",
+  "task": "generate_valid_analyses",
+  "input": {
+    "text": "Až vyrostu budu princeznou + až vyrostu budu TYGR = ❤️",
+    "image_description": "Princezna, žába, textová rovnice a srdce."
+  },
+  "valid_analyses": [
+    {
+      "mechanism": "Koexistence více identit bez redukce na jednu.",
+      "evidence": [
+        "Dvě deklarované identity",
+        "Současná přítomnost více figur"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "mechanism": "Formální rovnice spojuje kategorie bez společné měrné jednotky.",
+      "evidence": [
+        "Princezna a tygr jsou spojeni znaménkem plus",
+        "Výsledkem je symbol srdce"
+      ],
+      "confidence": "high"
+    },
+    {
+      "mechanism": "Deklarace budoucí identity funguje jako performativní sebeurčení.",
+      "evidence": [
+        "Opakování formulace ‚až vyrostu budu‘"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "invalid_overreach": [
+    {
+      "claim": "Žába se určitě fyzicky promění v tygra.",
+      "reason": "Obraz to jednoznačně nepotvrzuje."
+    }
+  ]
+}
