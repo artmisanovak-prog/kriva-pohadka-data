@@ -1,0 +1,11 @@
+{
+  "dataset_distribution": {
+    "correct_analysis": 40,
+    "observation_inference_separation": 20,
+    "realistic_errors_with_diagnosis": 15,
+    "cross_domain_transfer": 10,
+    "empty_gap_or_rejection_of_premature_mapping": 5,
+    "multiple_valid_interpretations": 5,
+    "topology_and_mapping_control": 5
+  }
+}
