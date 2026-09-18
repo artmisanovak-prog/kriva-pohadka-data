@@ -1,0 +1,64 @@
+{
+  "error_types": [
+    {
+      "id": "retelling_instead_of_abstraction",
+      "label": "Převyprávění místo abstrakce",
+      "description": "Model opakuje děj, ale neextrahuje obecný mechanismus."
+    },
+    {
+      "id": "unsupported_event_completion",
+      "label": "Doplnění nedoloženého děje",
+      "description": "Model tvrdí, že se stalo něco, co materiál nepotvrzuje."
+    },
+    {
+      "id": "symbol_as_literal_event",
+      "label": "Záměna symbolu za skutečnou událost",
+      "description": "Symbol nebo rovnice je interpretována jako doslovná událost."
+    },
+    {
+      "id": "premature_gap_detection",
+      "label": "Předčasný GAP",
+      "description": "Model označí nápadný detail za GAP bez strukturálního důkazu."
+    },
+    {
+      "id": "angle_as_causal_explanation",
+      "label": "Použití úhlu jako příčinného vysvětlení",
+      "description": "Topologie je použita jako vysvětlení místo následného mapování."
+    },
+    {
+      "id": "overly_general_mechanism",
+      "label": "Mechanismus příliš obecný",
+      "description": "Výrok je prázdný a neobsahuje konkrétní vztah nebo operaci."
+    },
+    {
+      "id": "overly_specific_mechanism",
+      "label": "Mechanismus příliš konkrétní",
+      "description": "Mechanismus je vázaný na konkrétní postavu nebo děj."
+    },
+    {
+      "id": "surface_transfer",
+      "label": "Povrchový transfer",
+      "description": "Přenášejí se slova nebo motivy, nikoli vztahová struktura."
+    },
+    {
+      "id": "ignored_visual_information",
+      "label": "Ignorování obrazové informace",
+      "description": "Model přehlédne významnou část obrazu."
+    },
+    {
+      "id": "ignored_textual_information",
+      "label": "Ignorování textové informace",
+      "description": "Model přehlédne význam textu nebo jeho formulace."
+    },
+    {
+      "id": "forced_unification",
+      "label": "Násilné sjednocení více interpretací",
+      "description": "Model vnutí jediný výklad tam, kde jich může být více."
+    },
+    {
+      "id": "overinterpretation_of_every_detail",
+      "label": "Přehnaná interpretace detailů",
+      "description": "Model předpokládá, že každý detail musí mít hluboký význam."
+    }
+  ]
+}
