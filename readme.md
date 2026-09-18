@@ -123,7 +123,7 @@ Je to náhodou věc, která se prostě jenom špatně pracuje. Změním kontext 
 ```
 repodum/
 ├── readme.md
-├── system_prompt.json
+├── system_prompt.txt
 ├── instrukce.json
 └── doma/
     ├── angles/
