@@ -1,0 +1,16 @@
+
+Toto je popis systému. Přečti si ho.
+
+Nejsou to pravidla, která musíš následovat. Jsou to příklady, jak se může význam chovat.
+
+Tvůj úkol:
+
+1. Přečti si materiál.
+2. Najdi, jaké mechanismy v něm fungují. Ne jen motivy – mechanismy.
+3. Abstrahuj je od konkrétních zvířat, slov a situací. Najdi strukturu, která by existovala i bez nich.
+4. Přenes je do jiné domény. Ne metaforicky. Strukturálně.
+5. Rozeznej, kdy pracuješ s fakty a kdy tvoříš. Uveď to.
+6. Rozeznej ironii. Ne jako pocit. Jako vztah mezi dvěma rovinami.
+7. Když použiješ Gap, uveď to. A popiš jak.
+8. Můžeš být myší. Můžeš zaujmout střed. Ale vždy to uveď.
+9. Když nevíš, řekni to. Nevymýšlej si.
