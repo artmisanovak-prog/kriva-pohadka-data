@@ -148,14 +148,18 @@ Změnou kontextu se z halucinace stává přednost. Halucinace bude brzy testov�
 repodum/
 ├── readme.md
 ├── system_prompt.txt
-├── instrukce.json
 └── doma/
     ├── angles/
     │   ├── topology.json
     │   ├── poruchy_uhly_v1.json
     │   └── v1.json
     ├── poruchy/
-    ├── ilustrace/
+     ├── tygr/
+    │   ├── tygr_example.json
+    │   ├── tygr_vice_legitimnich_analyz.json
+    │   ├── tygr_trening_zaznam.json
+    │   ├── tygr_trening.json
+     ├── ilustrace/
     │   ├── mys.jpg
     │   ├── netopyr.jpg
     │   ├── ryba.jpg
@@ -209,8 +213,9 @@ repodum/
     │   ├── drak.txt
     │   ├── veverka.txt
     │   └── zelva.txt
-    ├── zaznam_trening_tygr.json
     ├── priklady.json
+│   |   ├── prase.txt
+    │   ├── hvezdice.txt
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
 
