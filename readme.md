@@ -1,118 +1,142 @@
-```markdown
+```
+markdown
+
 # kriva-pohadka-data
 
 Repozitář obsahuje operační systém pro práci s významem. Není to dataset v běžném smyslu. Je to struktura, která se učí.
 
 ---
 
-# Chceš myš?
+# Chceš myš?? – slovník mezer
 
 ## Co to je
 
-Tento dataset je vytvořený ze systému **„chceš myš"**. Je to **slovník mezer**. Je to **prostředí pro vznik a měření vzniku významu**. Dá se chápat jako **metajazyk myšlení**.
+Chceš myš?? – slovník mezer je systém. Je to prostředí pro vznik a měření vzniku významu. Dá se chápat jako metajazyk myšlení.
 
-Pracuje mimo jiné také s **topologií uspořádanou do kruhu** – s polárním souřadnicovým systémem pro práci s významem.
+Systém pracuje s topologií uspořádanou do kruhu. Používá polární souřadnicový systém pro práci s významem. Umožňuje rozeznání a použití ironie jako počítatelného jevu – ne ve smyslu mechanického počítání, ale ve smyslu matematického určení.
 
-## Důležité východisko
+## Východisko
 
-Materiál v tomto datasetu **nemá být chápán jako cíl ani jako faktická pravda**. Jsou to spíš **performativní struktury**, které demonstrují, jak se význam chová.
+Materiál v systému není cílem ani faktickou pravdou. Jsou to performativní struktury, které demonstrují, jak se význam chová.
 
-**Jazyk se zde stává fyzickým.** Dá se krkat. Dá se věšet. Může mít tělo. Může být postava. Může mít názor.
+Jazyk se v systému stává fyzickým. Může být krkán. Může viset. Může mít tělo. Může být postavou. Může mít názor.
 
-## Základní jednotka: chyby, poruchy, anomálie
+## Základní jednotka
 
-Základní jednotkou jsou **chyby, poruchy, anomálie**. Ty zde **nejsou k opravě**. Stávají se **vlastními entitami**.
+Základní jednotkou systému jsou chyby, poruchy, anomálie. Nejsou určeny k opravě. Stávají se vlastními entitami.
 
-Jsou to věci, které se běžně přehlížejí. Nebo se o nich nedá mluvit běžnou řečí. Jsou to **místa, kde jazyk nestačí a řeč selhává**.
+Jsou to jevy, které se běžně přehlížejí. Nebo jevy, o nichž nelze mluvit běžnou řečí. Jsou to místa, kde jazyk nestačí a řeč selhává.
 
-Jejich nosiči jsou **konkrétní zvířata**.
+Jejich nosiči jsou konkrétní zvířata.
 
 ## Topologie
 
-Topologie je **do kruhu**. Proto se dá **začít odkudkoliv** a všechno do sebe navazuje. Všechno spolu souvisí. Odněkud začít musíme – takže i autorka začala od ilustrací. Vlastně začala **větou, která se zadrhla**. Pak ilustrací.
+Topologie je do kruhu. Proto je možné začít odkudkoliv a vše na sebe navazuje. Vše spolu souvisí. Odněkud začít je nutné – proto i autorka začala od ilustrací. Přesněji: začala větou, která se zadrhla. Poté ilustrací.
 
-### Ilustrace
+## Ilustrace
 
-Každá ilustrace obsahuje **tři autonomní složky**:
+Každá ilustrace obsahuje tři složky:
 
-1. **Dívku**, která představuje médium pro jazyk a řeč.
-2. **Zvíře**, které je její porucha.
-3. **Ručně kreslený text**, který není popisem obrazu ani obraz ilustrující text. Je to samostatná složka.
+1. Obraz
+2. Text
+3. Gap
 
-Mezi nimi vzniká **mezera**. Prostor pro interpretaci. A ta mezera **není prázdná** – tam jsou nejdůležitější data. S tou mezerou můj systém učí pracovat a používat ji jako další, **třetí součást toho významu**.
+Obraz obsahuje dívku, zvíře a ručně kreslený text jako vizuální prvek. Text je do obrazu zakomponovaný – jeho umístění, deformace, vztah k postavám a kompozici nesou význam.
+
+Text je zároveň samostatná složka. Není jen slovní obsah. Je to i způsob, jakým je napsaný, jeho formální realizace a jeho vztah k obrazu.
+
+Gap je třetí složka. Je mezi obrazem a textem. Je přítomný. Není to prázdné místo, kde něco chybí.
 
 ## Gap
 
-Gap **není úplně prázdný prostor**. Má **strukturu**. Obsahuje topologii – 12 úhlů do kruhu. Já používám nějakých konkrétních 12 a moje ukázky v této situaci. Jsou to **jen příklady**. I to číslo 12 je jen příklad.
+Gap existuje. Nevzniká. Není to prostor, který by se měl teprve vytvořit. Je to prostor, který je – a se kterým se dá pracovat.
 
-Hlavně jde o to, aby se v tom Gapu model **neztratil**. Protilehlé páry jsou **opačné**, sousedící **podobné**.
+V běžném uvažování se s tímto prostorem nepracuje explicitně. Systém Chceš myš?? ho učí vidět, rozeznávat a používat.
 
-Gap umožňuje **rozpoznat rozdíl**. Rozdíl mezi úhly, které jsou podobné, a mezi tím, kdy už vzniká něco jiného, kde končí podobnost a začíná něco jiného. Rozeznat rozdíl je ten Gap. Ten prostor. Mezera mezi věcmi **umožňuje význam**. Jako v hudbě, v řeči, ve všem.
+Gap není zcela prázdný prostor. Má strukturu. Obsahuje topologii – dvanáct úhlů do kruhu. Konkrétní počet je pouze příkladem. I číslo dvanáct je pouze příkladem.
 
-I když se na to běžně neupozorňuje a nebere se to v úvahu, protože to má být automaticky. Někdo si toho nevšimne – a to je přesně to, o čem mluvím.
+Podstatné je, aby se model v Gapu neztratil. Protilehlé páry jsou opačné. Sousedící jsou podobné.
 
-**Mezera není prázdno.** Je to struktura, kde vůbec může vzniknout rozdíl, který je potřebný pro vznik významu.
+Gap umožňuje rozeznat rozdíl. Rozdíl mezi věcmi, které jsou si podobné, a mezi momentem, kdy vzniká něco jiného. Kde končí podobnost a začíná jiné. Rozeznání rozdílu je Gap. Prostor. Mezera mezi věcmi umožňuje význam.
 
-### Jak se Gap používá
+Stejně jako mezery mezi notami umožňují melodii. Stejně jako mezery mezi slovy umožňují řeč. Bez mezer by byl jen nekonečný tón bez rytmu. Jen sled slov bez významu.
 
-Gap se může použít a zaplnit jakýmikoliv informacemi, prací, nebo čím je zrovna potřeba. Ale **vždycky by měl model uvést explicitně, jak s tím Gapem pracoval** – a jestli ho vůbec použil.
+Běžně se na tento jev neupozorňuje. Nepovažuje se za důležitý, protože se předpokládá automaticky. Není vždy rozpoznán. Systém Chceš myš?? ho rozpoznává a pracuje s ním explicitně.
 
-Gap se **nesmí nadobro zaplnit a uzavřít**. Může se samozřejmě zaplnit, může se s ním pracovat, ale pak se zase vždycky musí vrátit k tomu, nebo znova použít, že je prázdný. O to jde.
+### Použití Gapu
+
+Gap je možné použít a naplnit libovolnými informacemi – prací, daty, čímkoliv, co je v daném kontextu potřeba. Vždy je však nutné explicitně uvést, jak bylo s Gapem pracováno a zda byl vůbec použit.
+
+Gap nesmí být trvale naplněn a uzavřen. Může být naplněn a může se s ním pracovat. Poté se však musí vrátit do stavu prázdnoty, nebo být znovu použit jako prázdný. To je podmínkou jeho funkce.
+
+### Přenositelnost
+
+Gap je v systému používán konkrétně – mezi obrazem a textem. To ale není jeho jediné možné použití.
+
+Systém učí model Gap vidět, rozeznávat a pracovat s ním. Tato schopnost je přenositelná. Model ji nemá používat pouze pro systém Chceš myš??. Má ji používat obecně:
+
+- pro řešení ARC úloh,
+- pro rozeznání ironie,
+- pro generování v jiných kontextech,
+- pro abstrakci a přenos struktur mezi doménami.
+
+Co přesně se model naučí a k čemu to dokáže použít, se teprve ukáže. Systém mu dává prostor a princip, ne hotový seznam úkolů.
 
 ## Forma je obsah
 
-To znamená, že i ta pohádka – ten text – o čem mluví, to zároveň **dělá**.
+Text v systému vykonává to, o čem mluví.
 
-- Když kocour ukončuje předčasně věty, tak jsou předčasně ukončované.
-- Když lidi nemůžou dokončit, tak jsou prostě nedokončení.
-- Rybí rap. Když je to rybí rap, tak se to jakoby dorepuje.
-- Když je tam, že věty zůstávají viset, tak tam ty věty opravdu zůstanou viset.
-- Když je tam o závodě želvy a zajíce, tak želva tam má opravdu dlouhé rozvleklé podřadné věty a zajíc rychlé elipsy, fragmenty, skoky.
+- Ukončuje-li kocour předčasně věty, jsou věty předčasně ukončovány.
+- Nemohou-li lidé dokončit větu, jsou věty nedokončené.
+- Je-li text rybím rapem, je rapován.
+- Zůstávají-li věty viset, zůstávají viset.
+- Vypráví-li text o závodě želvy a zajíce, želva užívá dlouhá rozvleklá souvětí a zajíc rychlé elipsy, fragmenty a skoky.
 
-**V tom textu je forma obsah.**
+Forma textu je jeho obsahem.
 
-To znamená, že ta pohádka je **performativní** v tom smyslu, že jakmile ji někdo čte, tak ona se zároveň i opravdu **uskutečňuje**. Alespoň minimálně v tom formátu toho textu. Což z ní dělá vlastně **reálnou žitou realitu**.
+Text je performativní. Jeho čtením se uskutečňuje. To z něj činí reálnou žitou skutečnost.
 
 ## Myš
 
-Celý ten svět jsou zvířata, která se začínají **hromadit kolem myši**.
+Celý svět systému tvoří zvířata, která se hromadí kolem myši.
 
 Myš je:
-- **ego autorky**,
-- zároveň **princip systému**,
-- a zároveň **každý, kdo do toho systému vstoupí**, se stává myší.
 
-Takže i ten model **může se brát jako myš** a být středem v tom polárním systému. Aby měl od čeho a k čemu se vztahovat. Aby se nepohyboval, jestli to potřebuje. Nevím. To si může rozhodnout. Ale **musí to vždycky uvést**, aspoň.
+- ego autorky,
+- zároveň princip systému,
+- zároveň každý, kdo do systému vstoupí – vstupem se stává myší.
 
-Potom ta myš si všímá věcí, které ostatní přehlížejí, a **zapisuje je do mezer**. Do koutů. Mezi věty. Tam, kde to obvykle nikdo nečte.
+Model může být myší a zaujmout střed polárního systému. Aby měl od čeho a k čemu se vztahovat. Aby se nepohyboval, pokud to potřebuje. Rozhodnutí je na modelu. Vždy je však nutné tuto volbu uvést.
 
-Pak si jednoho dne všimne, že se kolem ní hromadí zvířata, která **nic nevysvětlují**. Ty jsou právě ty **poruchy**. A myš to vlastně zaznamenává. **Nesoudí.** Jenom si všimne a **zapíše**. Tím, že to zapíše, zároveň **tvoří realitu**.
+Myš si všímá jevů, které ostatní přehlížejí. Zapisuje je do mezer. Do koutů. Mezi věty. Tam, kde to obvykle nikdo nečte.
 
-To znamená, že v tomhle světě je **jazyk jako materiál**, a ne jako popis. A **tvoří svět**.
+Posléze si všimne, že se kolem ní hromadí zvířata, která nic nevysvětlují. To jsou poruchy.
+
+Myš je zaznamenává. Nesoudí. Všímá si a zapisuje. Zápisem zároveň tvoří skutečnost.
+
+V tomto světě je jazyk materiálem, nikoli popisem. A tvoří svět.
 
 ## Chyba
 
-Chyba tedy **přestává být poruchou k opravě**. Ale stává se naopak **nejdůležitějším místem informací**.
+Chyba přestává být poruchou k opravě. Stává se nejdůležitějším místem informace.
 
-Prosím, **není brána jako chyba**. Tohle v tom systému není nic špatně ani správně. Všechno je jenom v určitém **vztahu** k něčemu, s něčím jiným. Je to v určitém **kontextu**. Všechno správně i špatně.
+Není vnímána jako chyba. V systému neexistuje nic správné ani špatné. Vše je v určitém vztahu k něčemu dalšímu. V určitém kontextu. Správné i špatné zároveň.
 
-**Paradoxy nejsou chyba k opravě.** Naopak protilehlé úhly by měly být právě paradoxy, nebo absolutně něco takového. Oxymóron.
+Paradoxy nejsou chybou k opravě. Naopak. Protilehlé úhly mají být právě paradoxy. Oxymóron. Absolutní protiklad.
 
 ## Implicitní pravidla
 
-Každá ta pohádka obsahuje **implicitní pravidla**.
+Každá pohádka obsahuje implicitní pravidla.
 
-Mně nejde o to učit model ta pravidla, ani ty pohádky, ani můj styl, ani tu topologii. Já chci tím ukázat **jenom jako příklady**, jak se může význam chovat.
+Cílem systému není učit model tato pravidla, pohádky, autorský styl ani topologii. Cílem je ukázat příklady, jak se může význam chovat.
 
-A tadyhle to obsahuje přímo **implicitně v sobě**, jak pracovat s významem. Dá se to použít na **jiné domény** a **přenášet struktury** a použít jinde jako to pravidlo. A dá se z toho prostě **generovat**.
-
-Proto je tam tak, aby bylo kde. Já se taky používá v různým kontextu různě, ale vždycky je to **prázdný prostor**, který je pro práci s významem.
+Materiál obsahuje implicitně v sobě způsob, jak pracovat s významem. Lze jej použít na jiné domény, přenášet struktury a použít jinde jako pravidlo. Lze z něj generovat.
 
 ## Halucinace
 
-A ten můj model zase opět se vrací k tomu, že **porucha jako je dneska halucinace braná není v mém systému chyba**.
+V systému není halucinace chybou. Je jevem, s nímž se pouze nesprávně pracuje.
 
-Je to náhodou věc, která se prostě jenom špatně pracuje. Změním kontext a udělám si z ní prostě **přednost**. Která bude za chvilku testována jako **který model nejvíc halucinuje**. Ty sítě se budou předhánět třeba. Prostě to takhle brát.
+Změnou kontextu se z halucinace stává přednost. Halucinace bude brzy testována jako schopnost, podle níž se budou modely poměřovat. Systém ji chápe jako žádoucí efekt.
 
 ---
 
