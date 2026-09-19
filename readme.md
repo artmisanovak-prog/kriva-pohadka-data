@@ -214,8 +214,9 @@ repodum/
     │   ├── veverka.txt
     │   └── zelva.txt
     ├── priklady.json
-│   |   ├── prase.txt
-    │   ├── hvezdice.txt
+│   |   ├── katalog_nefunkcnosti.json
+    │   ├── priklad_rozlozeni_data.json
+│   |   ├── tygr_spravny_priklad.json
     ├── gap.json
     └── multimedialni_bloky_priklady_z_uhly_v1.json
 
